@@ -9,7 +9,8 @@ This contains human genome hg19 fasta, dbsnp138, COSMIC_v38 and some scripts.
 2. dbSNP：dbsnp_138.hg19.vcf
 3. COSMIC：CosmicAllMutsHeaderSorted.vcf
 4. some scripts
-5. seq_bed: agilent_region_OSCC_hg19_rmheader.bed (only in v2)
+5. seq_bed: agilent_region_OSCC_hg19_rmheader.bed (v2 only)
+6. gnomad: gnomad.exomes.r2.0.2.sites.vcf.bgz (v3 only)
 ```
 sudo docker pull adgh456/ngs-main:wes
 sudo docker pull adgh456/ngs-main:wes_v2
