@@ -1,4 +1,4 @@
-# DockerForNGS
+# Docker-for-NGS
 This is docker for NGS analysis
 https://hub.docker.com/u/adgh456/
 - Notes: remember to mount your localPath to container and direct outputPath to specific mounted path of container!
